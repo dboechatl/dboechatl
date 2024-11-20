@@ -8,9 +8,9 @@ Testes: JUnit | Mockito | Selenium
 #
 Ferramentas:
 Docker
--Postman
--Git
--IntelliJ
+Postman
+Git
+Eclipse
 #
 Aprendendo:
 Jenkins
