@@ -1,16 +1,24 @@
-## Hi there 👋
+🧑‍💼 Estudante de Análise e Desenvolvimento de Sistemas - Back-End
 
-<!--
-**dboechatl/dboechatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💙 Stack:
+Back-end: Java | Spring Boot
 
-Here are some ideas to get you started:
+Front-end: HTML | Tailwind/Bootstrap | Angular | ReactJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Banco de Dados: MySQL | MongoDB | SQL Server | PostgreSQL | H2 Database
+
+Testes: JUnit | Mockito | Selenium
+
+🛠️ Ferramentas:
+Docker
+Postman
+Git
+IntelliJ
+📚 Aprendendo:
+Jenkins
+AWS
+SonarQube
+
+![dboechatl's Stats](https://github-readme-stats.vercel.app/api?username=dboechatl&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+![dboechatl's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dboechatl&theme=vision-friendly-dark&hide_border=false)
+![dboechatl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dboechatl&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
